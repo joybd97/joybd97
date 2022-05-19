@@ -23,7 +23,7 @@ Self-motivated and hardworking fresher seeking an opportunity to work in a fast-
 
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=joybd97&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+ 
 </p>
 
 <hr>

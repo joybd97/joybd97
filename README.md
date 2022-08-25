@@ -1,5 +1,5 @@
 <img src ="https://gpvc.arturio.dev/joybd97">
-###Hi there 👋  </br>
+### Hi there 👋  </br>
 I'm Md. Mania Ahmed Joy
  am a computer science and engineering graduate and a full-stack software developer. I have always been passionate about different technologies and inquisitive to learn newer technologies. I always enjoyed software applications and have been interested in web development since my university days. I believe that computer applications are meant to create easier solutions for computational problems and provide people with easier and faster solutions. I also believe that my educational background endowed me with the qualities required for the development of software that is robust, user-friendly, scalable, and easily maintainable. I enjoy learning and sharing my knowledge as I strongly believe that the technological revolution, we are witnessing can be carried forward by sharing the knowledge and practicing them on regular basis.
 
